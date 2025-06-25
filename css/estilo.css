@@ -1,8 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+.titulo {
+  font-family: 'Playfair Display', serif;
+}
+
+.texto {
+  font-family: 'Lora', serif;
+}
+
+
+
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -64,6 +77,7 @@ h2 {
 .precio {
   font-weight: bold; 
   color: #8B0000;
+  margin-top: 10px;
 }
 
 footer {
@@ -71,3 +85,4 @@ footer {
   padding: 15px 0;
   background-color: #f0e6e6;
 }
+
