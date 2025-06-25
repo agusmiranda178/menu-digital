@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #f7f3f0;
+  color: #333;
+  margin: 0;
+  padding: 0 20px;
+}
+
+header {
+    background-color: #8B0000;
+    color: white;
+    padding: 7vh;
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px solid #dbb3b3; 
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #8B0000;
+  margin-top: 50px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}
+
+.plato {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin: 20px 0;
+  padding: 15px;
+}
+
+.plato img {
+  max-width: 300px;
+  height: 25vh;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 10px;
+  
+}
+
+.plato h3 {
+  margin: 10px 0 5px;
+}
+
+.precio {
+  font-weight: bold; 
+  color: #8B0000;
+}
+
+footer {
+  margin: 30px;
+  padding: 15px 0;
+  background-color: #f0e6e6;
+}
