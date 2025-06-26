@@ -58,4 +58,4 @@ MIT License – Libre de usar y modificar con fines educativos.
 
 ---
 
-> 💡 Este proyecto fue realizado como práctica de HTML y CSS básico. Cada sección y estilo fue construido aplicando lo pedido en la consigna del TP. ¡Gracias por visitar Restaurant Delicia!
+> 💡 Este proyecto fue desarrollado como práctica de HTML y CSS básico, aplicando los conceptos trabajados en clase y respetando los requisitos establecidos en la consigna del trabajo práctico. ¡Gracias por visitar Restaurant Delicia!
